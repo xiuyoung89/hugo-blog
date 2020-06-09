@@ -1,3 +1,121 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseUrl = "https://blog.nervousness.online/"
+title = "Young's"
+author= "Young"
+theme="hyde-hyde"
+# disqusShortname = "https-htr3n-github-io" # Comment out to disable Disqus.
+googleAnalytics = "UA-112764962-1"
+enableRobotsTXT = true
+enableEmoji = true
+# Built-in highlighting
+# https://gohugo.io/content-management/syntax-highlighting
+#pygmentsCodeFences = true
+#pygmentsStyle = "friendly"
+#pygmentsStyle = "monokai"
+#pygmentsStyle = "default"
+#pygmentsUseClasses = true     # this overrides 'PygmentsStyle'
+#http://pygments.org
+#pygmentsUseClassic = true     # falling back to Pygments instead of Chroma
+summarylength = 500
+paginate = 10
+
+# [Menus]
+#   main = [
+#       {Name = "Github", URL = "https://github.com/xiuyoung89/"},
+#       {Name = "Twitter", URL = "https://github.com/xiuyoung89/"}
+#   ]
+
+
+  [params]
+  author = "Young"
+  authorimage = "image/head.png"
+  description = "对待人生就大但一些吧，反正，早晚我们都失去！"
+  themeColor = "theme-base-09"
+  dateformat = "Jan 2, 2006"
+  # layoutReverse = true
+  disqusShortname = "spf13"
+  copyright = "young"
+  license = "MIT"
+  licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+  showBuiltWith = true
+  # highlightjs = true
+  highlightjsstyle = "github"
+  relatedPosts = true
+  mainSection=["code", "life", "other","about"]
+
+  # [permalinks]
+  #   posts = "/:year/:month/:slug/"
+  #   vn = "/:year/:month/:slug/"
+
+    ## Social Accounts
+[params.social]
+    github = "xiuyoung89"
+    #instagram = "htr3n"
+    #medium = "htr3n"
+    #bitbucket = "hoanghuytran"
+    linkedin = "xiuyoung89"
+    twitter = "xiuyoung89"
+    keybase = "xiuyoung89"
+    #facebook = "htr3n"
+    #gitlab = "htr3n"
+    stackoverflow = "xiuyoung89"
+    #xing = "Huy_Tran2"
+    #gravatar = "hoang.huy.tran@gmail.com"
+    email = "xiuyoung89@gmail.com"
+
+  # [params.valine]
+  #   enable = true
+  #   appId = 'BPO7uFCHTCTfpS87e8ggSl3c-gzGzoHsz'
+  #   appKey = 'BPO7uFCHTCTfpS87e8ggSl3c'
+  #   notify = false  # mail notifier , https://github.com/xCss/Valine/wiki
+  #   verify = false # Verification code
+  #   avatar = 'robohash' 
+  #   placeholder = '说点什么吧...'
+  #   visitor = true
+## Main Menu
+[[menu.main]]
+    name = "码农"
+    weight = 100
+    identifier = "code"
+    url = "/code/"
+[[menu.main]]
+    name = "生活"
+    identifier = "life"
+    weight = 300
+    url = "/life/"
+  [[menu.main]]
+    name = "PMP"
+    identifier = "pmp"
+    weight = 400
+    url = "/pmp/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 900
+    url = "/about/"
+
+  [related]
+    # Only include matches with rank >= threshold. This is a normalized rank
+    # between 0 and 100.
+    threshold = 80
+    # To get stable "See also" sections we, by default, exclude newer related
+    # pages.
+    includeNewer = false
+    # Will lower case keywords in both queries and in the indexes.
+    toLower = false
+[[related.indices]]
+    name = "keywords"
+    weight = 150
+[[related.indices]]
+    name  = "author"
+    toLower = true
+    weight = 30
+[[related.indices]]
+    name  = "tags"
+    weight = 100
+[[related.indices]]
+    name  = "date"
+    weight = 10
+    pattern = "2006"
+
+
+
