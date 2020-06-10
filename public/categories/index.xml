@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Young&#39;s</title>
-    <link>https://blog.nervousness.online/categories/</link>
+    <link>http://blog.nervousness.online/categories/</link>
     <description>Recent content in Categories on Young&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.nervousness.online/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.nervousness.online/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>go</title>
-      <link>https://blog.nervousness.online/categories/go/</link>
+      <link>http://blog.nervousness.online/categories/go/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.nervousness.online/categories/go/</guid>
+      <guid>http://blog.nervousness.online/categories/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PMP</title>
-      <link>https://blog.nervousness.online/categories/pmp/</link>
+      <link>http://blog.nervousness.online/categories/pmp/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.nervousness.online/categories/pmp/</guid>
+      <guid>http://blog.nervousness.online/categories/pmp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>感悟</title>
-      <link>https://blog.nervousness.online/categories/%E6%84%9F%E6%82%9F/</link>
+      <link>http://blog.nervousness.online/categories/%E6%84%9F%E6%82%9F/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.nervousness.online/categories/%E6%84%9F%E6%82%9F/</guid>
+      <guid>http://blog.nervousness.online/categories/%E6%84%9F%E6%82%9F/</guid>
       <description></description>
     </item>
     
     <item>
       <title>极客</title>
-      <link>https://blog.nervousness.online/categories/%E6%9E%81%E5%AE%A2/</link>
+      <link>http://blog.nervousness.online/categories/%E6%9E%81%E5%AE%A2/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.nervousness.online/categories/%E6%9E%81%E5%AE%A2/</guid>
+      <guid>http://blog.nervousness.online/categories/%E6%9E%81%E5%AE%A2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>生活</title>
-      <link>https://blog.nervousness.online/categories/%E7%94%9F%E6%B4%BB/</link>
+      <link>http://blog.nervousness.online/categories/%E7%94%9F%E6%B4%BB/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.nervousness.online/categories/%E7%94%9F%E6%B4%BB/</guid>
+      <guid>http://blog.nervousness.online/categories/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
     
     <item>
       <title>电影</title>
-      <link>https://blog.nervousness.online/categories/%E7%94%B5%E5%BD%B1/</link>
+      <link>http://blog.nervousness.online/categories/%E7%94%B5%E5%BD%B1/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.nervousness.online/categories/%E7%94%B5%E5%BD%B1/</guid>
+      <guid>http://blog.nervousness.online/categories/%E7%94%B5%E5%BD%B1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>终身学习</title>
-      <link>https://blog.nervousness.online/categories/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/</link>
+      <link>http://blog.nervousness.online/categories/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.nervousness.online/categories/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/</guid>
+      <guid>http://blog.nervousness.online/categories/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/</guid>
       <description></description>
     </item>
     

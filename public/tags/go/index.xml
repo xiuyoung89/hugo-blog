@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>go on Young&#39;s</title>
-    <link>https://blog.nervousness.online/tags/go/</link>
+    <link>http://blog.nervousness.online/tags/go/</link>
     <description>Recent content in go on Young&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.nervousness.online/tags/go/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.nervousness.online/tags/go/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>golang 学习</title>
-      <link>https://blog.nervousness.online/about/about/</link>
+      <link>http://blog.nervousness.online/about/about/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.nervousness.online/about/about/</guid>
+      <guid>http://blog.nervousness.online/about/about/</guid>
       <description>如何学习 </description>
     </item>
     
     <item>
       <title>golang 学习</title>
-      <link>https://blog.nervousness.online/code/%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0go/</link>
+      <link>http://blog.nervousness.online/code/%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0go/</link>
       <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.nervousness.online/code/%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0go/</guid>
+      <guid>http://blog.nervousness.online/code/%E5%A6%82%E4%BD%95%E5%AD%A6%E4%B9%A0go/</guid>
       <description>golang 学习资料汇总 # hello world </description>
     </item>
     
