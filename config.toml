@@ -77,16 +77,25 @@ paginate = 10
     weight = 100
     identifier = "code"
     url = "/code/"
+
 [[menu.main]]
     name = "生活"
     identifier = "life"
     weight = 300
     url = "/life/"
+
+    [[menu.main]]
+    name = "投资"
+    identifier = "Investment"
+    weight = 301
+    url = "/investment/"
+
   [[menu.main]]
     name = "PMP"
     identifier = "pmp"
     weight = 400
     url = "/pmp/"
+    
 [[menu.main]]
     name = "About"
     identifier = "about"
