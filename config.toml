@@ -27,7 +27,7 @@ paginate = 10
 
   [params]
   author = "Young"
-  authorimage = "image/head.png"
+  authorimage = "image/head01.jpg"
   description = "对待人生就大但一些吧，反正，早晚我们都失去！"
   themeColor = "theme-base-09"
   dateformat = "Jan 2, 2006"
