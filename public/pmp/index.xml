@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pmps on Young&#39;s</title>
+    <link>https://blog.nervousness.online/pmp/</link>
+    <description>Recent content in Pmps on Young&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.nervousness.online/pmp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PMP 学习</title>
+      <link>https://blog.nervousness.online/pmp/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E9%80%89%E6%8B%A9pmp/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.nervousness.online/pmp/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E9%80%89%E6%8B%A9pmp/</guid>
+      <description>终身学习 学习PMP的重要性 </description>
+    </item>
+    
+  </channel>
+</rss>
