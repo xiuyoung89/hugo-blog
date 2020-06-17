@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>感悟 on Young&#39;s</title>
-    <link>http://blog.nervousness.online/categories/%E6%84%9F%E6%82%9F/</link>
-    <description>Recent content in 感悟 on Young&#39;s</description>
+    <title>日记 on Young&#39;s</title>
+    <link>http://blog.nervousness.online/tags/%E6%97%A5%E8%AE%B0/</link>
+    <description>Recent content in 日记 on Young&#39;s</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.nervousness.online/categories/%E6%84%9F%E6%82%9F/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.nervousness.online/tags/%E6%97%A5%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,16 +21,6 @@
  当我跑步的时候我在想什么 跑步的习惯差不多一个半月了，坚持下去！
 嗨，最近晚上一跑步就感觉思绪飞扬，天马行空，感觉自己都不是自己了， 然后跑完步准备刷道算法题，拿到题的时候还能思绪飞扬，然后看完解析， 就感觉自己是个zz，简直要自闭了。 每天这个情绪波动很是异常。 感觉还是有点抑郁症的意思啊。 这样其实有时候也挺好。 时而要上天，时而要下地狱 感觉跟过山车一样样！
 # 最近的人生感悟是(记录下，或许可能真是很傻)： # 人生会做出很多选择，不论选择最后的结果是不是自己设想的那样，我们都要坦然的去接受他，因为这些都是我们自己的选择。 # 人生可以做很多错误或者荒谬的选择，很多没有意义的事情，但是人生一定要过的有趣，有意义。 # 如果不能失败中吸取经验教训，那失败就是没有意义的。 # 乱世的繁华，每个人都有自己想要的生活，愿你们都安好！ </description>
-    </item>
-    
-    <item>
-      <title>又双叒叕开始新的生活</title>
-      <link>http://blog.nervousness.online/other/hello/</link>
-      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://blog.nervousness.online/other/hello/</guid>
-      <description>Young&amp;rsquo;s Home 欢迎来到这个全新的世界
-#ls </description>
     </item>
     
   </channel>
